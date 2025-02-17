@@ -3,8 +3,8 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Pedro Augusto Nogueira Oliveira
+Matricula: 893904
 
 ## Tela de inspeção com navegador
 
